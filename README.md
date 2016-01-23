@@ -1,14 +1,13 @@
 # crashdetector
 
-a basic OS X app written in Obj-C that allows basic review of share prices
+A basic OS X app written in Obj-C that allows basic review of share prices.
 
 ## Installation
 Xcode 7.2 Project
 
 ## Usage
 
-![ScreenShot](https://github.com/adamteale/crashdetector/blob/master/screenshots/IMG_5624.jpg)
-![ScreenShot](https://github.com/adamteale/crashdetector/blob/master/screenshots/IMG_5625.jpg)
+![ScreenShot](https://github.com/adamteale/myshares/blob/master/screenshots/myshares.png)
 
 ## Contributing
 1. Fork it!
